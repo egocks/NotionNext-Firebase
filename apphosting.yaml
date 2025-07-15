@@ -28,6 +28,3 @@ env:
 
   - variable: NEXT_PUBLIC_LANG
     value: en-US
-
-  - variable: NEXT_PUBLIC_BEI_AN_LINK
-    value: ''
