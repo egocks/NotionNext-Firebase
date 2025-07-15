@@ -1,0 +1,33 @@
+env:
+  - variable: SITE_NAME
+    value: Self-Developing Dev
+
+  - variable: SITE_DOMAIN
+    value: www.selfdeveloping.dev
+
+  - variable: SITE_AUTHOR
+    value: Eliel Goco
+
+  - variable: NEXT_PUBLIC_KEYWORD
+    value: Software Development
+
+  - variable: NEXT_PUBLIC_LINK
+    value: https://www.selfdeveloping.dev
+
+  - variable: NEXT_PUBLIC_BIO
+    value: Improving oneself through software development
+
+  - variable: NEXT_PUBLIC_AUTHOR
+    value: Eliel Goco
+
+  - variable: NOTION_PAGE_ID
+    secret: notionRootPageId
+
+  - variable: NEXT_PUBLIC_APPEARANCE
+    value: auto
+
+  - variable: NEXT_PUBLIC_LANG
+    value: en-US
+
+  - variable: NEXT_PUBLIC_BEI_AN_LINK
+    value: ''
